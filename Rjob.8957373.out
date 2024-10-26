@@ -1,0 +1,8 @@
+  gender age   city
+1      m  19  Delhi
+2      f  20 Mumbai
+3      m  20  Delhi
+  gender age   city gender_m gender_f
+1      m  19  Delhi        1        0
+2      f  20 Mumbai        0        1
+3      m  20  Delhi        1        0
